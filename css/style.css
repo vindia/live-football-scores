@@ -1,0 +1,32 @@
+body {
+  background-color: #01A611;
+  background-color: #01a611;
+  background-image: url(https://cdn.hyperdev.com/us-east-1%3Ae1253fe9-e517-4003-bbf1-73be743cb251%2Fdark-stripes.png);
+  color: #FFFFFF;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.container {
+  margin-top: 4em;
+}
+
+.main-title {
+  color: rgba(0, 0, 0, 0.4);
+  text-align: center;
+  font-weight: bold;
+}
+
+.team-box {
+  text-align: center;
+}
+
+.team-name {
+  font-weight: bold;
+}
+.team-goals {
+  font-size: 2em;
+}
+
+.time-box {
+  text-align: center;
+}
